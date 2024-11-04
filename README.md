@@ -20,18 +20,7 @@ Se preferir rodar o código-fonte:
 
 1. Clone este repositório em sua máquina local.
 2. Certifique-se de ter o Python instalado.
-3. Instale as dependências (se houver) utilizando `pip install -r requirements.txt` (caso você tenha um arquivo de requisitos).
-4. Execute o arquivo `conversor_caso.py` para iniciar o aplicativo.
-
-## Empacotamento
-
-O programa também pode ser convertido em um arquivo executável (.exe) utilizando o PyInstaller. Para isso, utilize o comando:
-
-```bash
-pyinstaller --onefile --windowed conversor_caso.py
-```
-
-O executável gerado estará na pasta `dist`.
+3. Execute o arquivo `conversor_caso.py` para iniciar o aplicativo.
 
 ## Contribuição
 
